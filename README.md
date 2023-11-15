@@ -7,4 +7,5 @@
 ### Аналитика 
 Анализ аналогов и требования к MVP: https://docs.google.com/presentation/d/1V9GF7fyB1ttVtAuaHFWI8ZgXrhZL5Vkq6QP4T5WvjyA/edit#slide=id.g29a9f636672_0_86
 
+
 **Итоги первой итерации**: https://docs.google.com/presentation/d/1kssZNMvvAO_DVpaZS1MVb86gkNOGWhK-/edit?usp=sharing&ouid=110221333755515097004&rtpof=true&sd=true
