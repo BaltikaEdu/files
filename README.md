@@ -9,3 +9,6 @@
 
 
 **Итоги первой итерации**: https://docs.google.com/presentation/d/1kssZNMvvAO_DVpaZS1MVb86gkNOGWhK-/edit?usp=sharing&ouid=110221333755515097004&rtpof=true&sd=true
+
+## Второй этап: начало разработки
+Макет в Figma: https://www.figma.com/file/Xmt85RMnoDDxxfpGbztoS5/%5CDizayner?type=design&node-id=0-1&mode=design&t=HRnpPkwDFFW3mpQo-0
